@@ -1,4 +1,4 @@
-import { addToCart } from "/js/cart.js";
+import { addToCart } from "./cart.js";
 
 /*****************************************************
 Function to display the details of a selected product

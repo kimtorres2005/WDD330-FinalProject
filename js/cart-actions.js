@@ -1,4 +1,4 @@
-import { incrementQuantity, decrementQuantity, removeItem } from "/js/cart.js";
+import { incrementQuantity, decrementQuantity, removeItem } from "./cart.js";
 
 /*****************************************************
 Function to handle click events on the cart items
