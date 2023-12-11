@@ -10,7 +10,7 @@ export default defineConfig({
     outDir: "../dist",
     rollupOptions: {
       input: {
-        main: resolve(__dirname, "general.js"),
+        main: resolve(__dirname, "js/general.js"),
         cart: resolve(__dirname, "js/cart.js"),
         product: resolve(__dirname, "js/product.js"),
         productList: resolve(__dirname, "js/product-list.js"),
